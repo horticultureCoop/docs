@@ -90,7 +90,7 @@ Section 5.7 – **Open meetings.** Meetings of the Board and all committees shal
 
 # Article VI Officers
 
-Section 6.1 – **Designation and qualifications.**   The principal officers of the Co-op shall consist of President, Vice President, Secretary and Treasurer.  The Board may designate other officers or assistant officers.  The offices of Secretary and Treasurer may be held by one director.  All principal officers shall be directors.
+Section 6.1 – **Designation and qualifications.**   The principal officers of the Co-op shall consist of President, Vice President, Secretary, and Treasurer.  The Board may designate other officers or assistant officers.  The offices of Secretary and Treasurer may be held by one director.  The offices of Secretary or Treasurer may also hold the office of Vice President provided the officer is not already serving in two roles.  All principal officers shall be directors.
 
 Section 6.2 – **Election, terms and removal.**   Officers shall be elected by the Board at its first meeting following election of new directors.  Officers shall serve for terms of one year or until election of their successors.  Officers may be removed and replaced by the Board at any time whenever the best interests of the Co-op would thereby be served.
 
