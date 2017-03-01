@@ -20,7 +20,7 @@ Section 2.1 – **Eligibility and admission.**   Membership in the Co-op shall b
 
 Section 2.2 – **Share purchase or barter requirement.**   Full and Associate Members shall be required to purchase, or offer barter in exchange for, a share at an issuing price or value determined by the Board of Directors.
 
-Section 2.3 – **Rights.**   Each member shall be entitled to gainfully take part in projects sourced through the Co-op on terms generally available to members, and to participate in the governance of the Co-op as set forth in these bylaws.
+Section 2.3 – **Rights.**   Each member shall be entitled to gainfully take part in client projects sourced through the Co-op on terms generally available to members, and to participate in the governance of the Co-op as set forth in these bylaws.
 
 Section 2.4 – **Access to information.**   Members shall be provided adequate and timely information as to the organizational and financial affairs of the Co-op.  A member shall be provided specific information concerning the affairs of the Co-op upon request that is made in good faith and for a proper purpose, subject to reasonable restrictions prescribed by the Board of Directors.  To protect the privacy of members any proper request necessitating information from the Co-op&#39;s records of members shall whenever possible be accommodated by means other than direct access to such records.
 
@@ -38,7 +38,7 @@ Section 3.1 – **Annual Meeting.**   An annual meeting of members shall be held
 
 Section 3.2 – **Special meetings.**   Special meetings of members, including special votes of members by electronic balloting, may be called by the Board and shall be called by the Secretary as soon as practicable upon receipt of petitions authorized by not less than ten percent of all members in good standing, such petitions stating any proper business to be brought before members.
 
-Section 3.3 – **Notices.**   Written notice of a meeting or vote of members, including such information as is required by law or by these bylaws, shall be electronic mailed to each member not less than seven days nor more than thirty days before the date for return of ballots or the date of the meeting.  The Co-op shall also post notice of voting by members in a timely manner and in a conspicuous place in the Co-op&#39;s store, but the inadvertent failure to do so shall not affect the legitimacy of the vote of members. As permitted by Oregon law, the Board of Directors shall have authority to institute electronic notices.
+Section 3.3 – **Notices.**   Written notice of a meeting or vote of members, including such information as is required by law or by these bylaws, shall be delivered electronically to each member not less than seven days nor more than thirty days before the date for return of ballots or the date of the meeting.
 
 Section 3.4 – **Record dates.**   Unless otherwise determined by the Board, only persons who are members at the close of business on the business day immediately preceding the date of distribution of notices shall be entitled to receive such notice and to vote as an member.
 
