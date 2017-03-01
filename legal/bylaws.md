@@ -74,7 +74,7 @@ Section 4.10 – **Vacancies**. Whenever a vacancy among directors occurs before
 
 # Article V Meetings of the Board
 
-Section 5.1 – **Meetings.**   The Board of Directors may determine the times and places of regular meetings.  Special meetings may be called by the President and shall be called by the Secretary upon request of any three directors.  Meetings of the Board shall be held no less frequently than once in each quarter.
+Section 5.1 – **Meetings.**   The Board of Directors may determine the times and places of regular meetings.  Special meetings may be called by the President and shall be called by the Secretary upon request of any three directors.  Meetings of the Board shall be held no less frequently than once in each quarter.  The Board may determine to hold some or all meetings via a synchronous online collaboration platform.
 
 Section 5.2 – **Notice.**   Regular meetings shall require no notice other than the resolution of the Board, it being the responsibility of absent directors to inquire as to the time of further scheduled meetings.  Special meetings shall require written or oral notice to all directors.  Written notice shall be delivered at least five days before the date of the meeting and oral notices shall be given in person or by a telecommunications device at least forty–eight hours before the time of the meeting.  The Co-op shall also post notices of meetings of the Board in a timely manner and in a conspicuous place in the Co-op&#39;s store, but the inadvertent failure to do so shall not affect the legitimacy of the meeting.
 
@@ -86,7 +86,7 @@ Section 5.5 – **Decision making.**   The Board shall strive to make decisions 
 
 Section 5.6 – **Action without a meeting.**   Any action required or permitted to be taken at a meeting of the Board may be taken without a meeting if a written consent to the action is signed by all directors and filed with the minutes of meetings.  Such consents may be executed by e–mail.  Any action without a meeting shall be read into the minutes of the next meeting of the board.
 
-Section 5.7 – **Open meetings.** Meetings of the Board and all committees shall be open to members.  Sessions of a meeting may be closed only as to issues of a particularly sensitive nature.  Action at a closed session shall be read into the minutes of meetings at the first opportunity which would not compromise the sensitivity of the matters at issue.  Members may otherwise be excluded from board or committee meetings only for cause.
+Section 5.7 – **Open meetings.** Meetings of the Board and all committees shall be open to members.  Sessions of a meeting may be closed only as to issues of a particularly sensitive nature.  Action at a closed session shall be read into the minutes of meetings at the first opportunity which would not compromise the sensitivity of the matters at issue.  Members may otherwise be excluded from board or committee meetings only for cause.  Meetings held via a synchronous online collaboration platform shall be announced or otherwise made available to membership.
 
 # Article VI Officers
 
