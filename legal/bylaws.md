@@ -10,9 +10,7 @@ Section 1.3 – **Cooperative principles.**   The Co-op shall be operated in acc
 
 Section 1.4 – **Nondiscrimination.**   The Co-op shall not discriminate on the basis of race, nationality, religion, age, gender, political affiliation or other arbitrary basis.
 
-Section 1.5 – **Principal office.**   The principal office of the Co-op shall be located at 3153 Drummond Grade, Two Harbors, Minnesota 55616.
-
-Section 1.6 – **Fiscal year.**   The fiscal year of the Co-op shall coincide with the calendar year.
+Section 1.5 – **Fiscal year.**   The fiscal year of the Co-op shall coincide with the calendar year.
 
 # Article II Membership
 
