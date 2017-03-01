@@ -2,7 +2,7 @@
 
 # Article I Organization
 
-Section 1.1 – **Name.**   The name of the organization is Horticulture Cooperative (referred to in these bylaws as &quot;the Co-op&quot;).
+Section 1.1 – **Name.**   The name of the organization is Horticulture Cooperative (referred to in these bylaws as "the Co-op").
 
 Section 1.2 – **Purpose and mission**. The purpose of the Co-op is two-fold: (i) to produce original products in fields of practice including but not limited to technology which make a unique contribution to sustainability, culture, and/or community; (ii) to seamlessly connect inventors, entrepreneurs, and other visionaries with veteran sustainable product development and design professionals.  The mission is to advocate for our clients and one another through practice sharing, mentoring, collaboration, and unique community-building efforts such as active land conservation, outreach, and productive collaboration with other sustainability-focused organizations.  The Co-op shall be operated exclusively on a cooperative and nonprofit basis.
 
@@ -50,7 +50,7 @@ Section 3.8 – **Issues submitted by members.**   Notices of a vote or meeting 
 
 # Article IV Board of Directors
 
-Section 4.1 – **Powers and duties.**   Except as to matters reserved to members by law or by these bylaws, the corporate powers of the Co-op shall be exercised by or under the authority of the Board of Directors, and the business and affairs of the Co-op shall be managed under the direction of the Board of Directors (sometimes referred to in these bylaws as &quot;the Board&quot;).
+Section 4.1 – **Powers and duties.**   Except as to matters reserved to members by law or by these bylaws, the corporate powers of the Co-op shall be exercised by or under the authority of the Board of Directors, and the business and affairs of the Co-op shall be managed under the direction of the Board of Directors (sometimes referred to in these bylaws as "the Board").
 
 Section 4.2 – **Number and qualifications.**   The Board shall consist of not less than five nor more than nine individuals, as determined by the Board or by vote of members. All directors shall be members and shall not have any overriding conflict of interest with the Co-op.  No active/current employee may be a member of the Board.
 
@@ -60,7 +60,7 @@ Section 4.4 – **Compensation of directors.**   Directors shall receive profits
 
 Section 4.5 – **Standards of conduct.**   Directors shall be responsible at all times for discharging their duties in good faith, with the care that an ordinarily prudent person in a like position would exercise under similar circumstances and in a manner that they reasonably believe to be in the best interests of the Co-op.  The Co-op may not lend money to, or guarantee the obligation of, a director.
 
-Section 4.6 – **Conflicts of interest.**   Directors shall be under an affirmative duty to disclose their actual or potential conflicts of interest in any matter under consideration by the Board or by a committee exercising authority of the board, and such interest shall be made a matter of record in the minutes of the meeting.  Directors having such an interest may not participate in the decision of the matter nor in deliberations leading to such decision.  A transaction in which a director has an interest may be approved only by a majority of directors who have no interest in the transaction and upon a determination that the transaction is fair to the Co-op.
+Section 4.6 – **Conflicts of interest.**   Directors shall be under an affirmative duty to disclose their actual or potential conflicts of interest in any matter under consideration by the Board or by a committee exercising authority of the Board, and such interest shall be made a matter of record in the minutes of the meeting.  Directors having such an interest may not participate in the decision of the matter nor in deliberations leading to such decision.  A transaction in which a director has an interest may be approved only by a majority of directors who have no interest in the transaction and upon a determination that the transaction is fair to the Co-op.
 
 Section 4.7 – **Committees.**   The Board may appoint special or standing committees to advise the Board or to exercise such authority as the Board shall designate.  Advisory committees shall include at least one director.  Committees exercising any authority of the Board shall consist only of directors and shall conform to all procedural requirements applicable to the Board.
 
@@ -68,7 +68,8 @@ Section 4.8 – **Indemnification.**   Subject to limitations in Minnesota law a
 
 Section 4.9 – **Termination.**   The term of office of a director may be terminated prior to its expiration in any of the following ways: (i) voluntarily by a director upon notice to the Co-op; (ii) automatically upon termination of membership in the Co-op; (iii) for cause, by vote of two–thirds of all directors in office voting in person or a majority vote of the members at a meeting as specified in Section 3.  Removal under (iii) shall require that the reasons or charges be stated in a written notice of the meeting and that the affected director be provided the opportunity to answer the reasons or charges in person and/or in writing. A director who is absent from two consecutive Board meetings, or three meetings in a term year, unless excused by the Board for good cause, shall be presumed to have resigned.
 
-Section 4.10 – **Vacancies**. Whenever a vacancy among directors occurs before a term of office has been completed, the board may appoint a director to fill the vacancy.  Such director or directors shall serve until the next regularly scheduled election of directors, when a candidate will be elected for the remainder of the term that would have been served by the vacated director.  At any such election, the candidates receiving the highest number of votes will be elected to available three–year terms.  After those are filled, the candidate receiving the next highest number of votes will be elected to the shorter term.
+Section 4.10 – **Vacancies**. Whenever a vacancy among directors occurs before a term of office has been completed, the B
+oard may appoint a director to fill the vacancy.  Such director or directors shall serve until the next regularly scheduled election of directors, when a candidate will be elected for the remainder of the term that would have been served by the vacated director.  At any such election, the candidates receiving the highest number of votes will be elected to available three–year terms.  After those are filled, the candidate receiving the next highest number of votes will be elected to the shorter term.
 
 # Article V Meetings of the Board
 
