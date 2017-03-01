@@ -106,27 +106,27 @@ Section 6.3 – **Duties.**   In addition to signing or attesting to formal docu
 
 # Article VII Capital Stock
 
-Section 7.1 – **Issuance.**   To evidence capital funds provided by members, the Co-op shall issue shares constituting membership stock within the meaning of Oregon law.  Shares may be issued only to persons eligible for and admitted to membership in the Co-op.  Shares shall be issued only upon full payment of the stated value of the shares, as determined by the Board of Directors, which payment shall include returnable fees paid prior to adoption of these bylaws. Payment for shares shall not exceed three hundred dollars or such higher amount as may be permitted by ORS 59.025(11) or the corresponding provision of any subsequently enacted Oregon statute.
+Section 7.1 – **Issuance.**   TBD
 
 Section 7.2 – **Terms.**   Shares shall be entitled to no dividend or other monetary return on capital.  Shares shall not be transferable other than to or through the Co-op and may not be pledged as security for a debt.  Shares shall be subject to assessment insofar as it may become necessary to increase the share purchase requirement of members by reason of the current or prospective capital needs of the Co-op
 
 Section 7.3 – **Certificates.**   Members, whether or not they are in good standing, shall be entitled to receive certificates evidencing outstanding shares.  All certificates shall be signed personally or by facsimile by a principal officer of the Co-op and shall be numbered and registered by the Co-op.  Each certificate shall have printed upon it such information as is required by law.  The Co-op may issue a replacement certificate for any share alleged to have been lost, stolen or destroyed without requiring the giving of a bond or other security against related losses.
 
-Section 7.4 – **Redemption.**   Upon written request following voluntary termination of membership, the share of the requesting member, whether or not he or she is in good standing, shall be redeemed as soon as replacement capital has been secured by the Co-op from other members.  Shares shall also be redeemed as soon as practicable upon involuntary termination of membership, upon death of the member and under other compelling circumstances as determined by the Board. Shares shall be redeemable at the lesser of their carrying value on the books of the Co-op or their net book value.  In the case of voluntary termination of membership, a reasonable processing fee may be imposed, as determined by the Board.  Reapplications for membership after redemption shall be subject to full repayment of redemption proceeds and a reasonable reprocessing fee, if any, as determined by the Board.
+Section 7.4 – **Redemption.**   TBD
 
 # Article VIII Membership Dividends
 
-Section 8.1 – **Distribution of net earnings.**   The realized net earnings of the Co-op, to the extent attributable to the patronage of members shall be allocated and distributed among members in proportion to their patronage and in such manner and at such time as to constitute patronage dividends within the meaning of federal income tax law.  In determining and allocating such adjusted net earnings, the Co–o­p shall use a single allocation unit except to the extent that it shall engage in any new and distinct line of business.
+Section 8.1 – **Distribution of net earnings.**   TBD
 
-Section 8.2 – **Exceptions.**   Net earnings may be reduced by such reasonable reserves for necessary business purposes as is determined by the Board.  Any allocations of such a nominal amount as not to justify the expenses of distribution may, as determined by the Board, be excluded from distribution provided that they are not then or later distributed to other members.  Members shall retain the right to waive in whole or in part by vote of members any patronage refunds dividends to which they may be entitled.
+Section 8.2 – **Exceptions.**   TBD
 
 Section 8.3 – **Consent of members.**   By obtaining or retaining membership in the Co-op, each member shall thereby consent to take into account, in the manner and to the extent required by Section 1385 of the Internal Revenue Code, the stated dollar amount of any qualified written notice of allocation in the taxable year in which such notice is received.
 
-Section 8.4 – **Retentions.**   A portion of patronage dividends may be retained for the reasonable capital needs of the Co-op. Such retentions shall be credited to revolving capital accounts in the names of recipient members, shall accrue no monetary return on capital, and shall not be transferable other than to or through the Co-op.  They shall be redeemed when deter­mined by the Board to be no longer needed for capital pur­poses.  At that time they shall be redeemed in the order of the oldest out­standing amounts and on a pro rata basis among such amounts.  Retentions may also be redeemed under compelling circumstances as deter­mined by the Board.
+Section 8.4 – **Retentions.**   TBD
 
-Section 8.5 – **Net losses.**   No portion of a net operating loss realized by the Co-op shall be allocated to members.  The patronage portion of such losses shall be carried forward to offset patronage–sourced income of subsequent years.  The nonpatronage portion of such losses shall be carried back and forward to offset nonpatronage–sourced income of prior and subsequent years as required or permitted under federal income tax law.
+Section 8.5 – **Net losses.**   No portion of a net operating loss realized by the Co-op shall be allocated to members.
 
-Section 8.6 – **Forfeiture.**   Any distribution of patronage dividends or any redemption of an equity interest of the Co-op which remains unclaimed four years after the date authorized for payment may be forfeited by action of the Board.  Any amount so forfeited shall revert to the Co-op if, at least six months prior to the declared date of forfeiture, notice that the payment is available has been mailed to the last–known address of the person shown by the Co-op&#39;s records to be entitled thereto.
+Section 8.6 – **Forfeiture.**   TBD
 
 # Article IX Interpretation and Amendment of Bylaws
 
